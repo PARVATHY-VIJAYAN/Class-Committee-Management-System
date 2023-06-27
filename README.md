@@ -58,3 +58,17 @@ dfd level-0
 
 ![image](https://github.com/PARVATHY-VIJAYAN/Class-Committee-Management-System/assets/99131599/092379e7-8c17-489b-8b93-752b2c5be89c)
 dfd level-1
+
+<h3>Demo: STUDENT</h3>
+This is how student portal looks like:
+<img width="960" alt="image" src="https://github.com/PARVATHY-VIJAYAN/Class-Committee-Management-System/assets/99131599/9bad34a6-f812-43ce-b362-9b5b2c6c9e0a">
+
+Marksheet of a particular course
+<img src="https://github.com/PARVATHY-VIJAYAN/Class-Committee-Management-System/assets/99131599/86bafe60-b322-4fbf-b96a-04aa082ad4b5">
+<img src="https://github.com/PARVATHY-VIJAYAN/Class-Committee-Management-System/assets/99131599/ddd4f276-2bfe-4609-bf1b-4fdaa2b97f34">
+
+Display graph report
+<img src="https://github.com/PARVATHY-VIJAYAN/Class-Committee-Management-System/assets/99131599/0c2349aa-c4fe-4307-b12a-d55ed2f53607">
+
+Final Exam grade sheet of a particular course
+<img src="https://github.com/PARVATHY-VIJAYAN/Class-Committee-Management-System/assets/99131599/25560831-0a79-4808-800f-c14eeef9b474">
